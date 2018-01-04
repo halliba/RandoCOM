@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandoCOM", "src\RandoCOM\RandoCOM.csproj", "{748D7B0C-F43E-484A-AB2D-0D3DD25EAE74}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{33AC3104-E2B9-4379-BE79-BBB9F17B0A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748D7B0C-F43E-484A-AB2D-0D3DD25EAE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748D7B0C-F43E-484A-AB2D-0D3DD25EAE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748D7B0C-F43E-484A-AB2D-0D3DD25EAE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748D7B0C-F43E-484A-AB2D-0D3DD25EAE74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{748D7B0C-F43E-484A-AB2D-0D3DD25EAE74} = {33AC3104-E2B9-4379-BE79-BBB9F17B0A43}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5A801DA-29FC-4870-BA99-BB1C57D68FEA}
+	EndGlobalSection
+EndGlobal
